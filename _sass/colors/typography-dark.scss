@@ -6,7 +6,7 @@
   /* Framework color */
   --main-bg: rgb(27, 27, 30);
   --mask-bg: rgb(68, 69, 70);
-  --main-border-color: rgb(44, 45, 45);
+  --main-border-color: rgb(48, 233, 233);
 
   /* Common color */
   --text-color: rgb(253, 254, 255);
@@ -22,7 +22,7 @@
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: #2fc9f0;
   --btn-box-shadow: var(--main-bg);
-  --card-header-bg: #9390dd;
+  --card-header-bg: #282837;
   --checkbox-color: rgb(118, 120, 121);
   --checkbox-checked-color: var(--link-color);
   --img-bg: radial-gradient(circle, rgb(24, 24, 32) 0%, rgb(48, 44, 44) 100%);
@@ -40,7 +40,7 @@
   --sidebar-border-color: #2fc9f0;
   --sidebar-muted-color: #72cfdb;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #2fc9f0;
+  --sidebar-hover-bg: #121212;
   --sidebar-btn-bg: #060606;
   --sidebar-btn-color: #c5f663;
   --avatar-border-color: rgba(85, 235, 238, 0.9);
@@ -67,10 +67,10 @@
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
   --card-bg: #1e1e1e;
-  --card-hovor-bg: #464d51;
+  --card-hovor-bg: #466779e7;
   --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0,
-    rgb(137, 135, 135, 0.24) 0 0 0 1px;
-  --kbd-wrap-color: #6a6a6a;
+    rgba(22, 17, 37, 0.96) 0 0 0 1px;
+  --kbd-wrap-color: #2fc9f0;
   --kbd-text-color: #d3d3d3;
   --kbd-bg-color: #242424;
   --prompt-text-color: rgb(216, 212, 212, 0.75);
@@ -86,11 +86,11 @@
   /* tags */
   --tag-border: rgb(59, 79, 88);
   --tag-shadow: rgb(32, 33, 33);
-  --dash-color: rgb(63, 65, 68);
+  --dash-color: rgb(35, 208, 239);
   --search-tag-bg: #292828;
 
   /* categories */
-  --categories-border: rgb(64, 66, 69, 0.5);
+  --categories-border: rgba(74, 217, 224, 0.975);
   --categories-hover-bg: rgb(73, 75, 76);
   --categories-icon-hover-color: white;
 
