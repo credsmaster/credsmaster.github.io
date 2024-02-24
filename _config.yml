@@ -18,12 +18,12 @@ timezone: Africa/Nairobi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CredsMaster # the main title
+title: Hiira # the main title
 
-tagline: I am the real creds Master # it will display as the sub-title
+tagline: My growth space # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This is my personal growth zone.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://credsmaster.github.io/"
@@ -32,16 +32,16 @@ github:
   username: credsmaster # change to your github username
 
 twitter:
-  username: heyra_s # change to your twitter username
+  username: hiira_KE # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: credsmaster
-  email: example@domain.com # change to your email address
+  name: Hiira Pius
+  email: hiirapius@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/heyra_s # change to your twitter homepage
+    - https://twitter.com/hiira_KE # change to your twitter homepage
     - https://github.com/credsmaster # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/146383376?s=400&u=3cb86d42040ff4cbfa2a5a30e99d6114da9b4c88&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true

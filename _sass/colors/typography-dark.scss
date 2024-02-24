@@ -9,23 +9,23 @@
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
-  --text-color: rgb(175, 176, 177);
-  --text-muted-color: #868686;
-  --heading-color: #cccccc;
-  --label-color: #a7a7a7;
+  --text-color: rgb(253, 254, 255);
+  --text-muted-color: #deeced;
+  --heading-color: #2e28e0;
+  --label-color: #85ccea;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: #868686;
-  --link-color: rgb(138, 180, 248);
-  --link-underline-color: rgb(82, 108, 150);
-  --button-bg: #1e1e1e;
-  --btn-border-color: #2e2f31;
+  --link-color: rgb(17, 93, 215);
+  --link-underline-color: rgb(185, 206, 241);
+  --button-bg: #021812;
+  --btn-border-color: #2fc9f0;
   --btn-backtotop-color: var(--text-color);
-  --btn-backtotop-border-color: #212122;
+  --btn-backtotop-border-color: #2fc9f0;
   --btn-box-shadow: var(--main-bg);
-  --card-header-bg: #292929;
+  --card-header-bg: #9390dd;
   --checkbox-color: rgb(118, 120, 121);
   --checkbox-checked-color: var(--link-color);
-  --img-bg: radial-gradient(circle, rgb(22, 22, 24) 0%, rgb(32, 32, 32) 100%);
+  --img-bg: radial-gradient(circle, rgb(24, 24, 32) 0%, rgb(48, 44, 44) 100%);
   --shimmer-bg: linear-gradient(
     90deg,
     rgba(255, 255, 255, 0) 0%,
@@ -37,25 +37,25 @@
   --site-title-color: #717070;
   --site-subtitle-color: #868686;
   --sidebar-bg: #1e1e1e;
-  --sidebar-border-color: #292929;
+  --sidebar-border-color: #2fc9f0;
   --sidebar-muted-color: #868686;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
+  --sidebar-hover-bg: #ebe527e4;
   --sidebar-btn-bg: #232328;
-  --sidebar-btn-color: #787878;
-  --avatar-border-color: rgb(206, 206, 206, 0.9);
+  --sidebar-btn-color: #14023f;
+  --avatar-border-color: rgba(206, 239, 116, 0.9);
 
   /* Topbar */
   --topbar-bg: rgb(27, 27, 30, 0.64);
   --topbar-text-color: var(--text-color);
-  --search-border-color: rgb(55, 55, 55);
+  --search-border-color: rgb(186, 231, 41);
   --search-icon-color: rgb(100, 102, 105);
   --input-focus-border-color: rgb(112, 114, 115);
 
   /* Home page */
-  --post-list-text-color: rgb(175, 176, 177);
+  --post-list-text-color: rgba(163, 157, 164, 0.726);
   --btn-patinator-text-color: var(--text-color);
-  --btn-paginator-hover-color: #2e2e2e;
+  --btn-paginator-hover-color: #d7bf71;
 
   /* Posts */
   --toc-highlight: rgb(116, 178, 243);

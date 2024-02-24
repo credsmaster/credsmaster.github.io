@@ -3,13 +3,13 @@
  */
 
 @mixin dark-syntax {
-  --language-border-color: #2d2d2d;
+  --language-border-color: #2fc9f0;
   --highlight-bg-color: #151515;
   --highlighter-rouge-color: #c9def1;
   --highlight-lineno-color: #808080;
   --inline-code-bg: #323238;
   --code-color: #b0b0b0;
-  --code-header-text-color: #6a6a6a;
+  --code-header-text-color: #54e715;
   --code-header-muted-color: #353535;
   --code-header-icon-color: #565656;
   --clipboard-checked-color: #2bcc2b;
@@ -67,8 +67,8 @@
     background-color: #320000;
   }
   .highlight .gh {
-    color: #6a9fb5;
-    background-color: #151515;
+    color: #97d0e9;
+    background-color: #080808;
     font-weight: bold;
   }
   .highlight .k,
