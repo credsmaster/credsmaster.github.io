@@ -13,12 +13,12 @@ The best teachers have:
 
 A survey was done and below are the key concepts from the survey
 
-1. Knowledge is constructed, Not Received
+> Knowledge is constructed, Not Received
 
 - We construct our sense of reality out of all the sensory inputs we receive
 - We use our existing mental models to shape the sensory inputs we receive
   
-2. Mental Models Change Slowly
+> Mental Models Change Slowly
 
 - To stimulate students to build new models, they must:
     
@@ -26,7 +26,7 @@ A survey was done and below are the key concepts from the survey
 	* care that their mental model doesn't work, strongly enough to stop and grapple with the issue at hand
 	* be able to handle the emotional trauma that sometimes accompanies challenges to longstanding beliefs
 
-3. Students may find so much emotional comfort in some existing model of reality. To get them out of this;
+> Students may find so much emotional comfort in some existing model of reality. To get them out of this;
 
 * Ask questions that help students see their own mistakes
 * Students must first know the basic facts of the discipline to be able to think, analyze, synthesize and make judgements
