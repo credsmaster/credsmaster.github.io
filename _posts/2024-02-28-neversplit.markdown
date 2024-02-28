@@ -1,7 +1,7 @@
 ---
 title: Never Split The Difference by Chris Voss
 date: 2024-02-28 16:20:10 +0300
-category: [Books]
+category: [Books, Negotiation]
 tags: [negotiation]
 ---
 
