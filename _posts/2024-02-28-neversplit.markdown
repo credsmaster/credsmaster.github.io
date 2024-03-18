@@ -52,3 +52,31 @@ Common Mistakes
 How to deal with it:
     Instead of prioritizing your argument(what to say), make your sole and all-encompassing focus on the other person and what they have to say
 * Going too fast - in a negotiation, this risks undermining the rapport and trust.
+
+The Voice
+
+General demeanor and delivery is the easiest and the most immediately effective mode of influence - the voice
+
+* Voice is the most powerful tool in any verbal communication. It can intentionally reach into someone's brain and flip an emotional switch i.e distrusting to trusting, nervous to calm.
+<u> Available voices </u>
+
+* late-night FM DJ voice - this works by inflecting the voice down which shows that you are in control
+* Positive/playful voice - this is the most appropriate voice to use
+It brings along light and encouraging attitude
+Key is to relax and smile while you are talking`
+* Direct/assertive voice
+
+Labeling the Pain  
+_Good negotiators identify and influence emotions using them as a tool or means_
+
+Tactical empathy - understand the feelings and emotions of the counterpart and hear what is behind those feelings so that you can influence them
+
+Labeling is a way of validating someone's emotions by acknowledging it 
+ 
+* When labeling, avoid using personal propositions such as I. Instead, use a neutral statement i.e 'it seems like you want... 
+* After using a label, keep quite and listen - let the magic happen
+* The fastest and most efficient way of establishing a working relationship is by acknowledging the negative and diffusing it
+
+`According to research, the best way to deal with negativity is to observe it, without reaction and without judgement. Then consciously label each negative feeling and replace it with positive, compassionate, and solution-based thoughts.`
+
+Up next...Clear the Road before advertising the destination
