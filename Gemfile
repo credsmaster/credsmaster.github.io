@@ -28,3 +28,4 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem "csv"
+gem "logger"
