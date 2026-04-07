@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Gospel of John — Chapter 1"
-date: 2025-03-30
-categories: [bible-study, john]
+date: 2025-03-30 06:00:10 +0300
+categories: [bible_study, CBR, NT, John]
 tags: [gospel-of-john, new-testament, fid]
-book: John
-chapter: 1
-method: FID
+
 ---
 
 # Part 1 — The Book of Signs (Chapters 1–12)
