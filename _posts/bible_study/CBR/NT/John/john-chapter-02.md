@@ -59,7 +59,7 @@ tags: [gospel-of-john, new-testament, fid]
 - Ask: Are there things in my own "house of prayer" — my inner life, my church — that are blocking access to God for others?
 - Notice that Jesus does not trust himself to the crowds who believe in him based on signs (v.24). Seek a faith rooted in the person of Christ, not just in what he does for you.
 - 
-- 
+
 
 ---
 
