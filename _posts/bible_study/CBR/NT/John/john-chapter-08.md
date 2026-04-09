@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Gospel of John — Chapter 8"
-date: 2025-01-01
-categories: [bible-study, john]
+date: 2026-04-03 06:00:10 +0300
+categories: [bible_study, CBR, NT, John]
 tags: [gospel-of-john, new-testament, fid]
-book: John
-chapter: 8
-method: FID
----
+
 
 # Part 1 — The Book of Signs (Chapters 1–12)
 

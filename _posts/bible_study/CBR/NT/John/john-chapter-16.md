@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Gospel of John — Chapter 16"
-date: 2025-01-01
-categories: [bible-study, john]
+date: 2026-04-03 06:00:10 +0300
+categories: [bible_study, CBR, NT, John]
 tags: [gospel-of-john, new-testament, fid]
-book: John
-chapter: 16
-method: FID
+
 ---
 
 # Part 2 — The Book of Glory (Chapters 13–21)
