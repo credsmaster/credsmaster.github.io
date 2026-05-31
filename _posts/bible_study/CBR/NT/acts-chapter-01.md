@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acts — Chapter 1"
-date: 2025-03-30 06:00:00 +0300
+date: 2025-04-27 06:00:00 +0300
 categories: [bible_study, CBR, NT, Acts]
 tags: [acts, new-testament, fid]
 ---
