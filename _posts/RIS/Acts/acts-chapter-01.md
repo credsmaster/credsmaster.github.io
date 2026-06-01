@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acts — Chapter 1"
+title: Acts Chapter 1
 date: 2025-04-27 06:00:00 +0300
 categories: [RIS, Acts]
 tags: [acts, new-testament, fid]
