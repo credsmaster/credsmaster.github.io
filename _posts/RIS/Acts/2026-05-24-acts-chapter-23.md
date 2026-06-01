@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acts — Chapter 23"
-date: 2025-05-24 06:00:00 +0300
+date: 2026-05-24 06:00:00 +0300
 categories: [RIS, Acts]
 tags: [acts, new-testament, fid]
 ---
