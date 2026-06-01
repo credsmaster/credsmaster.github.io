@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Acts — Chapter 3"
-date: 2025-04-01 06:00:00 +0300
-categories: [bible_study, CBR, NT, Acts]
+date: 2025-04-29 06:00:00 +0300
+categories: [RIS, Acts]
 tags: [acts, new-testament, fid]
 ---
 
