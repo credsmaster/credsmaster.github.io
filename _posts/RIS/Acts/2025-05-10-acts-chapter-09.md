@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Acts — Chapter 9"
-date: 2025-04-07 06:00:00 +0300
-categories: [bible_study, CBR, NT, Acts]
+date: 2025-05-10 06:00:00 +0300
+categories: [RIS, Acts]
 tags: [acts, new-testament, fid]
 ---
 
