@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acts — Chapter 25"
-date: 2025-05-26 06:00:00 +0300
+date: 2026-05-26 06:00:00 +0300
 categories: [RIS, Acts]
 tags: [acts, new-testament, fid]
 ---
