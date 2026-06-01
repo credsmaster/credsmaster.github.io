@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Acts — Chapter 10"
-date: 2025-04-08 06:00:00 +0300
-categories: [bible_study, CBR, NT, Acts]
+date: 2025-05-11 06:00:00 +0300
+categories: [RIS, Acts]
 tags: [acts, new-testament, fid]
 ---
 
